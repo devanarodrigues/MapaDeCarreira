@@ -11929,10 +11929,10 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
     padding-top: 0;
   }
   .resume-header {
-    height: auto;
+    height: auto !important;
   }
   .resume-header .picture {
-    width: 120px;
+    width: 120px !important;
     border-radius: 4px;
   }
 }
